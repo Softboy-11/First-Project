@@ -53,14 +53,6 @@ yomade-website/
 
 The HTML file currently contains the website's styling and JavaScript internally. If additional files or folders are introduced later, the project structure can be updated accordingly.
 
-## 🌐 Live Demo
-
-**Live Website:** [Add your published GitHub Pages URL here]
-
-## 💻 Source Code
-
-**GitHub Repository:** [Add your GitHub repository URL here]
-
 ## 🎯 Project Purpose
 
 This project demonstrates the application of front-end web development skills to create a business website. It provides practical experience in structuring web pages, styling interfaces, implementing responsive layouts, and adding interactive functionality.
